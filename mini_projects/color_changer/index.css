@@ -1,0 +1,24 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box{
+    border: 5px solid black;
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+    margin: 10px;
+}
+#pink{
+    background-color: pink;
+}
+#white{
+    background-color: white;
+}
+#green{
+    background-color: green;
+}
+#yellow{
+    background-color: yellow;
+}
